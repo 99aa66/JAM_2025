@@ -11,12 +11,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6798c54d-418f-4f57-ab10-25563fccf72e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/Manu/Feedback/W_Flasheffect.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/Manu/Feedback/W_Flasheffect.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/DataTables/DT_ExampleEliteSpawn.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/DataTables/DT_ExampleEliteSpawn.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/Enemies/BP_Base_Elite.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/Enemies/BP_Base_Enemy.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/Enemies/BP_Base_Enemy.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JAM_2025.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/JAM_2025.uproject" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/Components/BP_Abilities_Component.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Content/SurvivorsTemplate/Blueprints/Components/BP_Abilities_Component.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/BlueprintAssist/NodeSizeCache/D9FD13FA4CC43DCCC4F2529DD72E98C1.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/BlueprintAssist/NodeSizeCache/D9FD13FA4CC43DCCC4F2529DD72E98C1.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -468,7 +463,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881321383</updated>
-      <workItem from="1737881322671" duration="2048000" />
+      <workItem from="1737881322671" duration="2645000" />
     </task>
     <servers />
   </component>
